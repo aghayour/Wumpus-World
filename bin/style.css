@@ -1,0 +1,143 @@
+.againButton
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/again.png");
+	-fx-pref-width: 100px;
+	-fx-pref-height: 100px;
+}
+
+.againButton:hover
+{
+	-fx-background-image: url("images/againHover.png");
+}
+
+.againButton:pressed
+{
+	-fx-background-image: url("images/againPressed.png");
+}
+
+.b4
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/b4.png");
+	-fx-pref-width: 66px;
+	-fx-pref-height: 23px;
+}
+
+.b4:hover
+{
+	-fx-background-image: url("images/b4Hover.png");
+}
+
+.b4:pressed
+{
+	-fx-background-image: url("images/b4Pressed.png");
+}
+
+.b5
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/b5.png");
+	-fx-pref-width: 66px;
+	-fx-pref-height: 23px;
+}
+
+.b5:hover
+{
+	-fx-background-image: url("images/b5Hover.png");
+}
+
+.b5:pressed
+{
+	-fx-background-image: url("images/b5Pressed.png");
+}
+
+.b6
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/b6.png");
+	-fx-pref-width: 66px;
+	-fx-pref-height: 23px;
+}
+
+.b6:hover
+{
+	-fx-background-image: url("images/b6Hover.png");
+}
+
+.b6:pressed
+{
+	-fx-background-image: url("images/b6Pressed.png");
+}
+
+.b7
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/b7.png");
+	-fx-pref-width: 66px;
+	-fx-pref-height: 23px;
+}
+
+.b7:hover
+{
+	-fx-background-image: url("images/b7Hover.png");
+}
+
+.b7:pressed
+{
+	-fx-background-image: url("images/b7Pressed.png");
+}
+
+.b8
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/b8.png");
+	-fx-pref-width: 66px;
+	-fx-pref-height: 23px;
+}
+
+.b8:hover
+{
+	-fx-background-image: url("images/b8Hover.png");
+}
+
+.b8:pressed
+{
+	-fx-background-image: url("images/b8Pressed.png");
+}
+
+.play
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/play.png");
+	-fx-pref-width: 80px;
+	-fx-pref-height: 80px;
+}
+
+.play:hover
+{
+	-fx-background-image: url("images/playHover.png");
+}
+
+.play:pressed
+{
+	-fx-background-image: url("images/playPressed.png");
+}
+
+.stop
+{
+	-fx-background-color: transparent;
+	-fx-background-image: url("images/stop.png");
+	-fx-pref-width: 80px;
+	-fx-pref-height: 80px;
+}
+
+.stop:hover
+{
+	-fx-background-image: url("images/stopHover.png");
+}
+
+.stop:pressed
+{
+	-fx-background-image: url("images/stopPressed.png");
+}
